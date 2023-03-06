@@ -20,7 +20,7 @@ config_version: 1.6
 
 # Please see https://github.com/TownyAdvanced/FlagWar/tree/main/src/main/resources/
 # for available translations. Custom translations are only supported if they are merged.
-translation: "en_US"
+translation: "ja_JP"
 
 # (Cosmetic) Show the ASCII banner on startup. Disable for cleaner/smaller server logs.
 show-startup-marquee: true
