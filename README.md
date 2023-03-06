@@ -1,2 +1,6 @@
-# FlagWar-ririEarth
-townyadvenced flag war plugin for ririEarth
+# FlagWar-りりEarth
+
+TownyAdvencedのアドオンであるFlgaWarをりりEarth用に改造した物です
+
+
+
