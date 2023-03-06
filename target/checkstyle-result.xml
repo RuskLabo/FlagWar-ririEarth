@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.4">
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/FlagWarAPI.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/util/Messaging.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/util/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/config/ConfigLoader.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/config/FlagWarConfig.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/config/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/CellAttackThread.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/objects/CellUnderAttack.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/objects/Cell.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/objects/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/HologramUpdateThread.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellDefendedEvent.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellAttackEvent.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellWonEvent.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellAttackCanceledEvent.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/i18n/LocaleUtil.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/i18n/Translate.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/i18n/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/FlagWar.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/WarzoneListener.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/OutlawListener.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarEntityListener.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarBlockListener.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarCustomListener.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/package-info.java">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_ru_RU.properties">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_fr_FR.properties">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_es_MX.properties">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_ja_JP.properties">
+</file>
+<file name="/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_en_US.properties">
+</file>
+</checkstyle>
