@@ -1,6 +1,6 @@
 # FlagWar-りりEarth
 
-TownyAdvencedのアドオンであるFlgaWarをりりEarth用に改造した物です
+TownyAdvencedのアドオンであるFlgaWarをりりEarth用に言語ファイル追加などをした物です
 
 # オリジナルのリポジトリはこちらから
 
