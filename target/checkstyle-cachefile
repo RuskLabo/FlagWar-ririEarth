@@ -1,11 +1,11 @@
-#Tue Mar 07 06:09:24 JST 2023
+#Tue Mar 14 09:44:50 JST 2023
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/i18n/package-info.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarEntityListener.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/objects/package-info.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/FlagWar.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarBlockListener.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_es_MX.properties=1669404618000
-/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_ja_JP.properties=1678136938936
+/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_ja_JP.properties=1678754599284
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/OutlawListener.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellWonEvent.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/package-info.java=1669404618000
@@ -13,7 +13,7 @@
 configuration*?=523AB3F335F72EB180506D72901BB2BE7800A9BB
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellAttackCanceledEvent.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/package-info.java=1669404618000
-/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_en_US.properties=1669404618000
+/Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/resources/Translation_en_US.properties=1678754677645
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/i18n/LocaleUtil.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/events/CellDefendedEvent.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/listeners/FlagWarCustomListener.java=1669404618000
@@ -25,8 +25,8 @@ configuration*?=523AB3F335F72EB180506D72901BB2BE7800A9BB
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/util/package-info.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/config/FlagWarConfig.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/HologramUpdateThread.java=1669404618000
-module-resource*?\:checkstyle-xpath-suppressions.xml=27812C9FF938E212B1EEC9F64B6EFE1E557114EC
-module-resource*?\:checkstyle-suppressions.xml=36F35E9C56059B01A370E5F87BA39F5FF7533B0A
+module-resource*?\:checkstyle-xpath-suppressions.xml=E9C53967EF8430719F543440420D94F0121BDE5E
+module-resource*?\:checkstyle-suppressions.xml=5537703A0C227FFC26C2097F0F7D0BE565166065
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/config/ConfigLoader.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/FlagWarAPI.java=1669404618000
 /Users/RuskDev/Documents/GitHub/FlagWar-ririEarth/src/main/java/io/github/townyadvanced/flagwar/util/Messaging.java=1669404618000
